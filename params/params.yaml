@@ -1,0 +1,3 @@
+barcode_reader:
+  ros__parameters:
+    input_port: "/dev/input/by-id/usb-Datalogic_ADC__Inc._Handheld_Barcode_Scanner_S_N_G14I27187-event-kbd"
